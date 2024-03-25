@@ -1,0 +1,9 @@
+Scope,Channel,Channel name,Collect data,Voltage range,Sampling rate,Autotrigger,Coupling mode,Threshold,Direction,Delay,Presample,Postsample,Extra1,Extra2
+1,A,undefined1,false,0.01,4,55,DC,20,BELOW,75,1000,1000,null,null
+2,A,scope2,false,0.02,4,55,DC,20,BELOW,75,1000,1000,null,null
+3,A,undefined3,false,0.05,16,55,DC,20,ABOVE,75,1000,1000,null,null
+4,A,undefined4,false,0.1,32,5000,AC,25,RISING,50,1000,1000,null,null
+1,B,undefined,false,0.1,16,50,AC,20,RISING,50,1000,1000,null,null
+2,B,undefined,false,0.1,16,50,AC,20,RISING,50,1000,1000,null,null
+3,B,undefined,false,0.1,16,50,AC,20,RISING,50,1000,1000,null,null
+4,B,undefined,false,0.1,16,50,AC,20,RISING,50,1000,1000,null,null

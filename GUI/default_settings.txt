@@ -1,0 +1,20 @@
+DEFAULT SETTINGS: for PicoScope channel
+
+ONLY change values- DO NOT change setting labels
+
+Channel name: undefined 
+Collect data: 1
+Voltage range [V]: 2 
+Timebase index: 12502
+Autotrigger: 0
+Coupling mode: DC
+Threshold [ADC count]: 1024
+Direction: RISING
+Delay [ms]: 0
+Presample: 40000
+Postsample: 40000
+Downsample: 0
+extra1: null
+extra2: null
+
+

@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../pico_main_dir/picoV2"
+		}
+	],
+	"settings": {}
+}
